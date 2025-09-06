@@ -1,16 +1,8 @@
 
-text.usetex: True
+text.usetex: False
+mathtext.fontset: stix
 font.family: serif
 font.serif: Times
-mathtext.fontset: custom
-mathtext.rm: Times
-mathtext.it: Times:italic
-mathtext.bf: Times:bold
-
-text.latex.preamble:
-    \usepackage{amsmath}
-    \usepackage{amssymb}
-
 
 
 # ===== FIGURE SETTINGS =====
