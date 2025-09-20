@@ -1,0 +1,16 @@
+# iclr_fonts.mplstyle
+# ICLR-like fonts: Times + Times-like math
+
+# --- Common ---
+font.family : serif
+font.serif  : Times New Roman, Times, Nimbus Roman No9 L, TeX Gyre Termes, DejaVu Serif
+mathtext.fontset : stix
+mathtext.rm : STIXGeneral
+mathtext.it : STIXGeneral:italic
+mathtext.bf : STIXGeneral:bold
+
+# --- LaTeX 
+text.usetex : True
+text.latex.preamble :
+    \usepackage{times}
+    \usepackage{mathptmx}
