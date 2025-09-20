@@ -9,8 +9,4 @@ mathtext.rm : STIXGeneral
 mathtext.it : STIXGeneral:italic
 mathtext.bf : STIXGeneral:bold
 
-# --- LaTeX 
-text.usetex : True
-text.latex.preamble :
-    \usepackage{times}
-    \usepackage{mathptmx}
+
