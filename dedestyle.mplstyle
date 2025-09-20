@@ -1,9 +1,4 @@
 
-text.usetex: False
-mathtext.fontset: stix
-font.family: serif
-font.serif: Times
-
 
 # ===== FIGURE SETTINGS =====
 figure.figsize: 8, 6
