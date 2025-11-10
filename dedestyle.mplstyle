@@ -17,8 +17,8 @@ figure.edgecolor: none
 # ===== SOPHISTICATED TYPOGRAPHY =====
 font.size: 14
 text.color: black
-axes.labelcolor: 1c0b00
-axes.titlecolor: 2C3E50
+axes.labelcolor: black
+axes.titlecolor: black
 
 # Font sizes for different elements - INCREASED FOR BETTER READABILITY
 axes.titlesize: 20
