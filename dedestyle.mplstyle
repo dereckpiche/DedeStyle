@@ -110,7 +110,7 @@ image.interpolation: bilinear
 image.cmap: viridis
 
 # ===== STUNNING COLOR PALETTE =====
-axes.prop_cycle: cycler('color', ['ef8323', '0eb224', 'f235df', '3587f2']) + cycler('marker', ['o','^','s','D'])
+axes.prop_cycle: cycler('color', ['ef8323', '0eb224', 'f23535', '3587f2']) + cycler('marker', ['o','^','s','D'])
 
 
 # ===== SCATTER PLOT ENHANCEMENTS =====
