@@ -81,15 +81,15 @@ lines.antialiased: True
 legend.fancybox: True
 legend.frameon: True
 legend.framealpha: 0.95
-legend.facecolor: white
-legend.edgecolor: e0e0e0
+legend.facecolor: FBF7F0
+legend.edgecolor: E8DCC8
 legend.borderaxespad: 1.0
 legend.handlelength: 2.0
 legend.handletextpad: 0.6
 legend.labelspacing: 0.5
 legend.columnspacing: 1.2
 legend.loc: best
-legend.shadow: True
+legend.shadow: False
 
 # ===== MATHEMATICAL TEXT =====
 axes.formatter.use_mathtext: True
