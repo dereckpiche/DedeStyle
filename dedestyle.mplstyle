@@ -80,9 +80,9 @@ lines.antialiased: True
 # ===== BEAUTIFUL LEGEND =====
 legend.fancybox: True
 legend.frameon: True
-legend.framealpha: 0.95
-legend.facecolor: FBF7F0
-legend.edgecolor: E8DCC8
+legend.facecolor: white        
+legend.edgecolor: D0D0D0      
+legend.framealpha: 1.0         
 legend.borderaxespad: 1.0
 legend.handlelength: 2.0
 legend.handletextpad: 0.6
